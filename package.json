@@ -1,7 +1,7 @@
 {
     "name": "programa-git",
     "version": "1.0.0",
-    "description": "Practica de github utilizando un ejemplo de aplicacion de un gestor de tareas",
+    "description": "Practica de github utilizando como ejemplo una aplicacion de  gestor de tareas",
     "main": "index.js",
     "scripts": {
       "start": "node index.js"
