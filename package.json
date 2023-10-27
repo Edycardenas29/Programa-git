@@ -1,7 +1,7 @@
 {
     "name": "programa-git",
     "version": "1.0.0",
-    "description": "Practica de github",
+    "description": "Practica de github utilizando un ejemplo de aplicacion de un gestor de tareas",
     "main": "index.js",
     "scripts": {
       "start": "node index.js"
@@ -9,4 +9,3 @@
     "author": "Edy cardenas",
     "license": "MIT"
   }
-  
